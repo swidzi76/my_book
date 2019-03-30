@@ -1,1 +1,2 @@
-Rodział 3 
+﻿Rodział 3 
+linia z master
