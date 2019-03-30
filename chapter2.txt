@@ -1,3 +1,4 @@
 Rodział II - Podtytuł 
 linia hotfix 
 master linia 
+Kolejna linia w CMD 
